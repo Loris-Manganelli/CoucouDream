@@ -1,0 +1,5 @@
+*.jpg
+*.jpeg
+*.png
+clip-vit-base-patch16
+stable-diffusion-v1-5
